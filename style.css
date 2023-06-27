@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(188, 212, 227);
+  text-align: center;
+  color: #0000cc;
+
+}
+
+h1 {
+  text-align: center;
+  color: #ff3300;
+}
+
+form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 5px;
+  width: 300px;
+}
+
+button {
+  padding: 5px 10px;
+  color: #170202;
+background: linear-gradient(#0099ff,#ff66cc);
+  font-size: large;
+  font-weight: lighter;
+  
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: center;
+  font-weight: bold;
+  color: #000066;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: xx-large;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #999;
+}
